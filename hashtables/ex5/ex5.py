@@ -1,9 +1,5 @@
 def finder(files, queries):
 
-    """
-    YOUR CODE HERE
-    """
-
     return result
 
 
