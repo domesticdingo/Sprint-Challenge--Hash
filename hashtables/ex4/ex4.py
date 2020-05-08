@@ -1,11 +1,6 @@
 def has_negatives(a):
-
-    """
-    YOUR CODE HERE
-    """
-
-    return result
+    hash_table = {}
 
 
 if __name__ == "__main__":
-    print(has_negatives([-1,-2,1,2,3,4,-4]))
+    print(has_negatives([-1, -2, 1, 2, 3, 4, -4]))
